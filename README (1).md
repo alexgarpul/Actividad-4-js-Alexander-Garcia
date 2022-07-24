@@ -1,7 +1,7 @@
 
 # Actividad-4-javascript-Alexander-García
 
-Después de muchas duras horas, presentó la actividad 4 de javascript;
+Después de muchas duras horas, presento la actividad 4 de javascript;
 En esta actividad implementare el let, prompt y alert como acciones principales para realizar los puntos de la actividad 4.
 
 
